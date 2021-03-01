@@ -1,0 +1,60 @@
+.Text {
+  color: white;
+}
+.DesignCard {
+  width: 250px;
+  height: 250px;
+  margin-left: 150px;
+}
+.Desingner {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 90px;
+  margin-top: 50px;
+}
+.Buttton button {
+  margin-left: 20px;
+}
+.AddContact02 {
+  padding-left: 250px;
+  padding-top: 50px;
+  background-color: #585858;
+  width: 500px;
+  height: 150px;
+  font-size: 50px;
+  margin-left: 500px;
+  margin-top: 50px;
+  color: white;
+}
+.AddContact02:hover {
+  transform: scale(1.2);
+  transition: transform 1s;
+}
+.AddContact02 button {
+  border: none;
+  background-color: none;
+}
+.Addc {
+  margin-left: 100px;
+  padding-top: 30px;
+}
+.Inputt {
+  margin-left: 120px;
+}
+.Inputt input {
+  width: 250px;
+}
+.Inputt p {
+  text-align: center;
+}
+.Inputt p {
+  margin-right: 100px;
+}
+.Addc02 {
+  margin-left: 50px;
+  padding-top: 20px;
+}
+.Updated {
+  display: flex;
+}
